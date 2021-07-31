@@ -1,0 +1,18 @@
+left
+down, use food
+left
+left, use money
+left, use money
+right
+right
+right
+right
+down
+up
+left
+left
+down
+down
+down
+right
+right

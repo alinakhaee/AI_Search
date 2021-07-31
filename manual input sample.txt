@@ -1,0 +1,12 @@
+0 1 100 100
+7 6
+0 0 s
+0 5 k
+6 0 c
+1 1 p
+5 5 b 100
+5 4 w 50
+5 3 l 50 50
+-1
+
+// just for showing sample for each entity. not a hard test :)

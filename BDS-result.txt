@@ -1,0 +1,22 @@
+from initial node to intersection node :
+left
+down, use food
+left
+left, use money
+left, use money
+right
+right
+right
+****************************************************
+from goal state to intersection node :
+final state
+left
+left
+up
+up
+up
+right
+right
+down
+up
+left
